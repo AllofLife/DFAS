@@ -1,0 +1,7 @@
+1、参考项目：将睡意检测部署到了树莓派上面
+https://www.pyimagesearch.com/2017/10/23/raspberry-pi-facial-landmarks-drowsiness-detection-with-opencv-and-dlib/?tdsourcetag=s_pctim_aiomsg
+2、上一个项目的前身：在笔记本电脑上运行睡意检测
+https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
+3、利用opencv dlib、对视频流进行眨眼检测
+https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
+注：感觉上面这些实现了主要的功能 还剩下人脸身份的那一关 其实设备跟人脸关联还是跟车关联好呢？应该是人脸 对于长途货运公司来说，车就几辆，人比车多。
